@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "657605525221",
+    "firebase_url": "https://encrytionethree-default-rtdb.firebaseio.com",
+    "project_id": "encrytionethree",
+    "storage_bucket": "encrytionethree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657605525221:android:ccef9d9bd913b9327e9e0c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657605525221-nc8a2urkt0vvke6s7vo8fcgce8e8pip2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuhKSgaadOvvCcxBm49kSboGahykkqXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657605525221-nc8a2urkt0vvke6s7vo8fcgce8e8pip2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657605525221:android:84c08c0850e49dd57e9e0c",
+        "android_client_info": {
+          "package_name": "com.example.encrytionethree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657605525221-nc8a2urkt0vvke6s7vo8fcgce8e8pip2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuhKSgaadOvvCcxBm49kSboGahykkqXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657605525221-nc8a2urkt0vvke6s7vo8fcgce8e8pip2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657605525221:android:1dfcc06d437f3f477e9e0c",
+        "android_client_info": {
+          "package_name": "com.example.swish_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657605525221-nc8a2urkt0vvke6s7vo8fcgce8e8pip2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpuhKSgaadOvvCcxBm49kSboGahykkqXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657605525221-nc8a2urkt0vvke6s7vo8fcgce8e8pip2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
